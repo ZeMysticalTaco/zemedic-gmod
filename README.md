@@ -11,7 +11,7 @@ This is not an official ACE3 release, I am not affiliated with the developers of
 # Some mumbo jumbo
 *because of all the effort and months of work I put into this I'm doing this for the first time.*
 
-You can with this plugin:
+## You can with this plugin:
 
 Install it on your server and use it.
 
@@ -23,7 +23,8 @@ Use this code for educational purposes.
 
 Remove the ad that prints every 60 minutes in console. *please report bugs, also it's a config option.*
 
-You may not:
+## You may not:
+
 Copy the plugin or large bits of code inside it and claim it as yours.
 
 Re-release the plugin in any way.
