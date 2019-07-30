@@ -10,23 +10,35 @@ This is not an official ACE3 release, I am not affiliated with the developers of
 
 # Some mumbo jumbo
 *because of all the effort and months of work I put into this I'm doing this for the first time.*
+
 You can with this plugin:
+
 Install it on your server and use it.
+
 Modify it to fit your needs.
+
 Read the code to study the methods used to create it. *although i'm not a good benchmark for this, I make what works and what is user friendly, not exactly what is 'efficient'*
+
 Use this code for educational purposes.
+
 Remove the ad that prints every 60 minutes in console. *please report bugs, also it's a config option.*
 
 You may not:
 Copy the plugin or large bits of code inside it and claim it as yours.
+
 Re-release the plugin in any way.
+
 Modify the author portion of the plugin.
+
 Package, or advertise any components of it under a paid system.
+
 Claim creation of it or any content inside of it.
+
 
 
 The above does not apply to the following:
 ```function util.PaintDown``` - Ported from Trouble In Terrorist Town
+
 ```The Helix Framework and any components from it modified``` https://github.com/NebulousCloud/helix
 
 
