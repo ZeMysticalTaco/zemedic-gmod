@@ -37,10 +37,11 @@ Claim creation of it or any content inside of it.
 
 
 
-The above does not apply to the following:
+## The above does not apply to the following:
+
 ```function util.PaintDown``` - Ported from Trouble In Terrorist Town
 
-```The Helix Framework and any components from it modified``` https://github.com/NebulousCloud/helix
+```The Helix Framework and any components from it modified``` https://github.com/NebulousCloud/helix refer to their license for stuff.
 
 
 # Advertisement
